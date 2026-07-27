@@ -1,2 +1,2 @@
 # nextjs
-Ce projet est le résultat de mon apprentissage de net js
+Ce projet est le résultat de mon apprentissage de next js
